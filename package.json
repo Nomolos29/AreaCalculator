@@ -1,0 +1,20 @@
+{
+  "name": "area_calculator",
+  "version": "1.0.0",
+  "description": "Calculates the area of a Triangle, Rectangle and Square",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sunday Solomon",
+  "license": "ISC",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-ignition": "^0.15.5",
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "@nomiclabs/hardhat-ethers": "^2.2.3",
+    "hardhat": "^2.22.9"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5"
+  }
+}
